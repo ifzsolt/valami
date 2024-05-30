@@ -1,3 +1,4 @@
 EZ egy proba
-Torolni sor
-Mods sor
+
+Mods sor ...
+HASD
